@@ -1,7 +1,10 @@
 # ResearchGate
 My Project and Paper on Analysis of ResearchGate, A Community Detection Approach, based on Louvain Modularity Algorithm.
 # Visualization of Graph
+* Circular Visualization
 ![Circular Visualization of the Collaboration Network Graph on ResearchGate](https://github.com/MohammadHeydari/ResearchGate/blob/master/Circular_Visualization_of_Graph.svg)<img src="https://github.com/MohammadHeydari/ResearchGate/blob/master/Circular_Visualization_of_Graph.svg">
+* Betweeness Centrality-based Visualization of Graph
+![Betweeness Centrality-based Visualization of Graph](https://github.com/MohammadHeydari/ResearchGate/blob/master/Spring_Visualization_of_Graph_based_in_Betweenness_Centrality.svg)<img src="https://github.com/MohammadHeydari/ResearchGate/blob/master/Spring_Visualization_of_Graph_based_in_Betweenness_Centrality.svg">
 # Cite the Paper
 ```
 @article{heydari2020analysis,
