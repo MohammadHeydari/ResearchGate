@@ -5,6 +5,7 @@ My Project and Paper on Analysis of ResearchGate, A Community Detection Approach
 ![Circular Visualization of the Collaboration Network Graph on ResearchGate](https://github.com/MohammadHeydari/ResearchGate/blob/master/Circular_Visualization_of_Graph.svg)
 * Betweeness Centrality-based Visualization of Graph
 ![Betweeness Centrality-based Visualization of Graph](https://github.com/MohammadHeydari/ResearchGate/blob/master/Spring_Visualization_of_Graph_based_in_Betweenness_Centrality.svg)
+![fruchterman_reingold](https://github.com/MohammadHeydari/ResearchGate/blob/master/Fructhterman_Reingold_Visualizaation_of_Graph.svg)
 # Cite the Paper
 ```
 @article{heydari2020analysis,
