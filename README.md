@@ -34,3 +34,14 @@ We are living in the data age. Communications over scientific networks creates n
   year={2020}
 }
 ```
+or
+```
+@misc{heydari2020analysis,
+    title={Analysis of ResearchGate, A Community Detection Approach},
+    author={Mohammad Heydari and Babak Teimourpour},
+    year={2020},
+    eprint={2003.05591},
+    archivePrefix={arXiv},
+    primaryClass={cs.SI}
+}
+```
