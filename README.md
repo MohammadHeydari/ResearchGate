@@ -9,3 +9,14 @@ My Project and Paper on Analysis of ResearchGate, A Community Detection Approach
   year={2020}
 }
 ```
+or
+```
+@misc{heydari2020analysis,
+    title={Analysis of ResearchGate, A Community Detection Approach},
+    author={Mohammad Heydari and Babak Teimourpour},
+    year={2020},
+    eprint={2003.05591},
+    archivePrefix={arXiv},
+    primaryClass={cs.SI}
+}
+```
