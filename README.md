@@ -1,5 +1,16 @@
 ## Analysis of ResearchGate, A Community Detection Approach 
 My Project and Paper on Analysis of ResearchGate, A Community Detection Approach, based on Louvain Modularity Algorithm.
+# Requirements
+* Python 3.5+
+* networkX 2.4+
+* matplotlib
+* Seaborn
+* nxviz
+* Pandas
+* Collections
+* Itertools
+* Community Module of networkX
+* 
 # Abstract
 We are living in the data age. Communications over scientific networks creates new opportunities for researchers who aim to discover the hidden pattern in these huge repositories. This study utilizes network science to create collaboration network of Iranian Scientific Institutions. A modularity-based approach applied to find network communities. To reach a big picture of science production flow, analysis of the collaboration network is crucial. Our results demonstrated that geographic location closeness and ethnic attributes has important roles in academic collaboration network establishment. Besides, it shows that famous scientific centers in the capital city of Iran, Tehran has strong influence on the production flow of scientific activities. These academic papers are mostly viewed and downloaded from the United State of America, China, India, and Iran. The motivation of this research is that by discovering hidden communities in the network and finding the structure of intuitions communications, we can identify each scientific center research potential separately and clear mutual scientific fields. Therefore, an efficient strategic program can be designed, developed and tested to keep scientific centers in progress way and navigate their research goals into a straight useful roadmap to identify and fill the unknown gaps.
 # Visualization of Graph
