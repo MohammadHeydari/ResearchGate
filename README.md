@@ -10,6 +10,10 @@ We are living in the data age. Communications over scientific networks creates n
 ![fruchterman_reingold](https://github.com/MohammadHeydari/ResearchGate/blob/master/Fructhterman_Reingold_Visualizaation_of_Graph.svg)
 * Mapping Communities to the Geo Map
 ![Mapping Communities to the Geo Map](https://github.com/MohammadHeydari/ResearchGate/blob/master/Geo_Map.png)
+# Paper
+* [On Google Scholar](https://scholar.google.com/scholar?q=Analysis+of+ResearchGate,+A+Community+Detection+Approach&hl=en&as_sdt=0&as_vis=1&oi=scholart)
+* [On ArXiv](https://arxiv.org/abs/2003.05591)
+* [On ResearchGate](https://www.researchgate.net/publication/339898855_Analysis_of_ResearchGate_A_Community_Detection_Approach)
 # Cite the Paper
 ```
 @article{heydari2020analysis,
