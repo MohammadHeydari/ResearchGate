@@ -8,6 +8,8 @@ We are living in the data age. Communications over scientific networks creates n
 * Betweeness Centrality-based Visualization of Graph
 ![Betweeness Centrality-based Visualization of Graph](https://github.com/MohammadHeydari/ResearchGate/blob/master/Spring_Visualization_of_Graph_based_in_Betweenness_Centrality.svg)
 ![fruchterman_reingold](https://github.com/MohammadHeydari/ResearchGate/blob/master/Fructhterman_Reingold_Visualizaation_of_Graph.svg)
+* Mapping Communities to the Geo Map
+![Mapping Communities to the Geo Map](https://github.com/MohammadHeydari/ResearchGate/blob/master/Geo_Map.png)
 # Cite the Paper
 ```
 @article{heydari2020analysis,
