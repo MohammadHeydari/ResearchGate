@@ -27,6 +27,7 @@ We are living in the data age. Communications over scientific networks creates n
 * [On ArXiv](https://arxiv.org/abs/2003.05591)
 * [On ResearchGate](https://www.researchgate.net/publication/339898855_Analysis_of_ResearchGate_A_Community_Detection_Approach)
 ## Cite the Paper
+You can cite to our paper if you find it useful for your related research projects and papers.
 ```
 @article{heydari2020analysis,
   title={Analysis of ResearchGate, A Community Detection Approach},
